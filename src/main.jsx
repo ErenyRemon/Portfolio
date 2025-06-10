@@ -1,4 +1,3 @@
-// import 'bootstrap/dist/css/bootstrap.min.css';
 import '../public/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { StrictMode } from 'react'
