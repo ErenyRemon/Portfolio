@@ -1,0 +1,133 @@
+.mainSkillsDiv{
+    
+    background-color: #383838;
+    color: white;
+    padding: 100px !important;
+
+}
+button{
+    background-color: #959188 !important;
+    padding: 5px !important;
+}
+.skillsDiv{
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    text-align: center;
+    
+}
+.skillsDivDown{
+    padding-top: 50px !important;
+}
+.skillsDivDownLeft{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    margin-left: 50px !important;
+    align-items: center;
+}
+
+
+.skillsDivDownRight{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-right: 100px !important;
+    
+
+}
+
+.menuCourse{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin-right: 25px !important;
+}
+.line{
+    width: 20%;
+}
+
+.skillsDivDownCourses1{
+    background-color: white;
+    width: 100%;
+}
+
+.skillsDivDownCoursesColor1{
+    width: 94%;
+    background-color: #ebeae8;
+}
+
+
+.skillsDivDownCourses2 {
+    background-color: white;
+
+    width: 100%;
+}
+.skillsDivDownCoursesColor2{
+    width: 94%;
+    background-color: #ebeae8;
+
+}
+
+.skillsDivDownCourses3{
+    background-color: white;
+
+    width: 100%;
+}
+
+.skillsDivDownCoursesColor3{
+    width: 80%;
+    background-color: #ebeae8;
+}
+.skillsDivDownCourses4{
+    background-color: white;
+  
+    width: 100%;
+}
+
+.skillsDivDownCoursesColor4{
+    width: 80%;
+    background-color: #ebeae8;
+}
+.skillsDivDownCourses5{
+    background-color: white;
+    
+    width: 100%;
+}
+
+.skillsDivDownCoursesColor5{
+    width: 94%;
+    background-color: #ebeae8;
+}
+.skillsDivDownCourses6{
+    background-color: white;
+    width: 100%;
+}
+
+.skillsDivDownCoursesColor6{
+    width: 80%;
+    background-color: #ebeae8;
+}
+.skillsDivDownCourses7{
+    background-color: white;
+    width: 100%;
+}
+
+.skillsDivDownCoursesColor7{
+    width: 75%;
+    background-color: #ebeae8;
+}
+.buttonCourse{
+    border: 0px;
+    background-color: #383838;
+    color: white;
+    width: 75px;
+    padding-right: 20px !important;
+
+}

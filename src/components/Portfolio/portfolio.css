@@ -1,0 +1,104 @@
+.mainPortfolio{
+    
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 50px !important;
+}
+.textPortfolio{
+    padding: 20px !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.portfolioTop{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.webDesign{
+    background-color: #959188;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    color: white;
+    border-radius: 10px;
+}
+
+.mobileDesign{
+    background-color:#404040 ;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 10px;
+   
+}
+.logoDesign{
+    background-color:#959188 ;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 10px;
+   
+}
+
+.portfolioDown{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+
+}
+.webApplication{
+    background-color:#404040 ;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+   
+}
+.mobileApplication{
+    background-color:#959188 ;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+.pwaDevelopment{
+    background-color:#404040;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 10px;
+   
+}
+.line{    
+    /* color: inherit; */
+    border: 1px solid white !important;
+    width: 150px !important;
+    margin-top: 15px !important;
+}

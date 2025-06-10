@@ -1,0 +1,32 @@
+.aboutDiv{
+    display: flex; 
+    padding: 50px !important;
+
+}
+
+.aboutleftside{
+    width: 50%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    
+
+}
+
+.aboutRightside{
+    width: 90%;
+
+    /* background-color: blue; */
+}
+
+.buttonDownload{
+    background-color: #383838;
+    color: white;
+    border: 0px;
+    padding: 20px !important;
+    margin-top: 25px !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+

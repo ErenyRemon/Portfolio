@@ -1,0 +1,29 @@
+.navbar1{
+    background-image: url(/src/assets/images/1.jpg);
+    background-size: cover !important;
+    height: 500px;
+    color: white;
+    padding-left: 95px !important;
+    padding-top: 150px !important;
+    display: flex;
+    flex-direction: column;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.ownerName{
+    padding-left: 75px !important;
+}
+
+.buttonContact{
+    padding: 10px !important;
+    margin-left: 70px !important;
+    background-color: transparent !important;
+    color: white !important;
+    border: 1px solid white !important;
+    width: 200px;
+    margin-top: 30px !important;
+    border-radius: 10px;
+}
